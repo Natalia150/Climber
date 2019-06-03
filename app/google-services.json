@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "584290732789",
+    "firebase_url": "https://climber-916f8.firebaseio.com",
+    "project_id": "climber-916f8",
+    "storage_bucket": "climber-916f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584290732789:android:5093c642897e86b4",
+        "android_client_info": {
+          "package_name": "com.example.climber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584290732789-ve7vki0m7oc8c74c1t1omhp3ucc1gtlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.climber",
+            "certificate_hash": "77e7d14c9f73afd7ac92657f53ab3f4adff47836"
+          }
+        },
+        {
+          "client_id": "584290732789-t27pi57193e0iqjopucmt6g00qegjusl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5PkPCcE72EfzKh8sO7iRI8PgVx7OYxDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584290732789-t27pi57193e0iqjopucmt6g00qegjusl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
